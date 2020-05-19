@@ -1,6 +1,6 @@
 .photo-intro {
     display: block;
-    background-image: url(../../../img/photo-bg-320.png);
+    background-image: url(/img/photo-bg-320.png);
     background-size: 320px 460px;
     background-repeat: no-repeat;
     background-position: 0 -66px;
@@ -19,7 +19,7 @@
 @media screen and (min-width: 660px) {
         .intro {
         display: block;
-        background-image: url(../../../img/intro-bg-660.png);
+        background-image: url(/img/intro-bg-660.png);
         background-size: 660px 730px;
         background-repeat: no-repeat;
         background-position: 0 -110px;
@@ -47,7 +47,7 @@
 @media screen and (min-width: 1200px) {
     .intro {
     display: block;
-    background-image: url(../../../img/bg-desktop-1200.png);
+    background-image: url(/img/bg-desktop-1200.png);
     background-size: 1200px 853px;
     background-repeat: no-repeat;
     background-position: 0 -110px;

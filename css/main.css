@@ -428,7 +428,7 @@ img {
 
 .intro {
   display: block;
-  background-image: url(../../../img/bg-mobile-320.png);
+  background-image: url(/img/bg-mobile-320.png);
   background-size: 320px 460px;
   background-repeat: no-repeat;
   background-position: 0 -66px;
@@ -499,7 +499,7 @@ img {
 @media screen and (min-width: 660px) {
   .intro {
     display: block;
-    background-image: url(../../../img/intro-bg-660.png);
+    background-image: url(/img/intro-bg-660.png);
     background-size: 660px 730px;
     background-repeat: no-repeat;
     background-position: 0 -110px;
@@ -574,7 +574,7 @@ img {
 @media screen and (min-width: 1200px) {
   .intro {
     display: block;
-    background-image: url(../../../img/bg-desktop-1200.png);
+    background-image: url(/img/bg-desktop-1200.png);
     background-size: 1200px 853px;
     background-repeat: no-repeat;
     background-position: 0 -110px;
@@ -701,7 +701,7 @@ img {
 */
 .intro {
   display: block;
-  background-image: url(../../../img/bg-mobile-320.png);
+  background-image: url(/img/bg-mobile-320.png);
   background-size: 320px 460px;
   background-repeat: no-repeat;
   background-position: 0 -66px;
@@ -772,7 +772,7 @@ img {
 @media screen and (min-width: 660px) {
   .intro {
     display: block;
-    background-image: url(../../../img/intro-bg-660.png);
+    background-image: url(/img/intro-bg-660.png);
     background-size: 660px 730px;
     background-repeat: no-repeat;
     background-position: 0 -110px;
@@ -847,7 +847,7 @@ img {
 @media screen and (min-width: 1200px) {
   .intro {
     display: block;
-    background-image: url(../../../img/bg-desktop-1200.png);
+    background-image: url(/img/bg-desktop-1200.png);
     background-size: 1200px 853px;
     background-repeat: no-repeat;
     background-position: 0 -110px;
@@ -921,7 +921,7 @@ img {
 
 .advantages {
   background-color: #fff;
-  background-image: url(../../../img/information-shape.png);
+  background-image: url(/img/information-shape.png);
   background-size: 320px 784px;
   background-repeat: no-repeat;
   background-position: 0 218px; }
@@ -992,7 +992,7 @@ img {
 @media screen and (min-width: 660px) {
   .advantages {
     background-color: #fff;
-    background-image: url(../../../img/bg-shape-660.png);
+    background-image: url(/img/bg-shape-660.png);
     background-size: 660px 485px;
     background-repeat: no-repeat;
     background-position: 0 220px;
@@ -1047,7 +1047,7 @@ img {
 @media screen and (min-width: 1200px) {
   .advantages {
     background-color: #fff;
-    background-image: url(../../../img/bg-shape-1200.png);
+    background-image: url(/img/bg-shape-1200.png);
     background-size: 1200px 704px;
     background-repeat: no-repeat;
     background-position: 0 296px;
@@ -1385,7 +1385,7 @@ img {
     display: block;
     width: 22px;
     height: 41px;
-    background-image: url(../../../img/right-arrow-png.png);
+    background-image: url(/img/right-arrow-png.png);
     background-color: transparent;
     border: none;
     -webkit-box-ordinal-group: 4;
@@ -1396,7 +1396,7 @@ img {
     display: block;
     width: 22px;
     height: 41px;
-    background-image: url(../../../img/left-arrow-png.png);
+    background-image: url(/img/left-arrow-png.png);
     background-color: transparent;
     border: none;
     -webkit-box-ordinal-group: 2;
@@ -1462,7 +1462,7 @@ img {
     content: "";
     width: 78px;
     height: 78px;
-    background-image: url(../../../img/hit.png);
+    background-image: url(/img/hit.png);
     background-repeat: no-repeat;
     left: 0;
     top: 0; }
@@ -1618,7 +1618,7 @@ img {
 
 .contacts {
   background-color: #fff;
-  background-image: url(../../../img/map-marker.jpg);
+  background-image: url(/img/map-marker.jpg);
   background-size: 320px;
   background-repeat: no-repeat;
   min-height: 612px; }
@@ -1640,7 +1640,7 @@ img {
   .address::after {
     position: absolute;
     content: "";
-    background-image: url(../../../img/contacts-bg-triangle-1200.png);
+    background-image: url(/img/contacts-bg-triangle-1200.png);
     background-repeat: no-repeat;
     background-size: 320px;
     width: 320px;
@@ -1680,7 +1680,7 @@ img {
 @media screen and (min-width: 660px) {
   .contacts {
     background-color: #fff;
-    background-image: url(../../../img/map-marker-660.png);
+    background-image: url(/img/map-marker-660.png);
     background-size: 660px;
     background-repeat: no-repeat;
     min-height: 780px; }
@@ -1731,7 +1731,7 @@ img {
 @media screen and (min-width: 1200px) {
   .contacts {
     background-color: #fff;
-    background-image: url(../../../img/map-marker-1200.jpg);
+    background-image: url(/img/map-marker-1200.jpg);
     background-size: 1200px;
     background-repeat: no-repeat;
     min-height: 780px; }
@@ -1906,7 +1906,7 @@ img {
 
 .photo-intro {
   display: block;
-  background-image: url(../../../img/photo-bg-320.png);
+  background-image: url(/img/photo-bg-320.png);
   background-size: 320px 460px;
   background-repeat: no-repeat;
   background-position: 0 0;
@@ -1931,7 +1931,7 @@ img {
 @media screen and (min-width: 660px) {
   .photo-intro {
     display: block;
-    background-image: url(../../../img/photo-bg-660.png);
+    background-image: url(/img/photo-bg-660.png);
     background-size: 660px 730px;
     background-repeat: no-repeat;
     background-position: 0 -110px;
@@ -1954,7 +1954,7 @@ img {
 @media screen and (min-width: 1200px) {
   .photo-intro {
     display: block;
-    background-image: url(../../../img/photo-bg-1200.png);
+    background-image: url(/img/photo-bg-1200.png);
     background-size: 1200px 853px;
     background-repeat: no-repeat;
     background-position: 0 0;
@@ -3423,7 +3423,7 @@ img {
 
 .form-intro {
   display: block;
-  background-image: url(../../../img/photo-bg-320.png);
+  background-image: url(/img/photo-bg-320.png);
   background-size: 320px 460px;
   background-repeat: no-repeat;
   background-position: 0 0;
@@ -3449,7 +3449,7 @@ img {
 @media screen and (min-width: 660px) {
   .form-intro {
     display: block;
-    background-image: url(../../../img/photo-bg-660.png);
+    background-image: url(/img/photo-bg-660.png);
     background-size: 660px 730px;
     background-repeat: no-repeat;
     background-position: 0 -110px;
@@ -3469,7 +3469,7 @@ img {
 @media screen and (min-width: 1200px) {
   .form-intro {
     display: block;
-    background-image: url(../../../img/photo-bg-1200.png);
+    background-image: url(/img/photo-bg-1200.png);
     background-size: 1200px 853px;
     background-repeat: no-repeat;
     background-position: 0 0;
@@ -3702,7 +3702,7 @@ legend {
   outline: 5px auto -webkit-focus-ring-color; }
 
 .achievements__checkbox input[type="checkbox"]:hover + .checkbox-indicator {
-  background-image: url(../../../img/tick-png.png);
+  background-image: url(/img/tick-png.png);
   background-repeat: no-repeat;
   background-position: 8px 8px; }
 
@@ -3711,7 +3711,7 @@ legend {
   position: absolute;
   top: 0;
   left: 0;
-  background-image: url(../../../img/tick-png.png);
+  background-image: url(/img/tick-png.png);
   background-repeat: no-repeat;
   background-position: 8px 8px; }
 
@@ -3815,7 +3815,7 @@ legend {
   background-color: #fff;
   border: 2px solid #f2f2f2;
   border-radius: 50%;
-  background-image: url(../../../img/radio-app.png);
+  background-image: url(/img/radio-app.png);
   background-repeat: no-repeat;
   background-position: 12px 10px; }
 
@@ -3829,7 +3829,7 @@ legend {
   background-color: #fff;
   border-radius: 2px solid #f2f2f2;
   border-radius: 50%;
-  background-image: url(../../../img/radio-app.png);
+  background-image: url(/img/radio-app.png);
   background-repeat: no-repeat;
   background-position: 12px 10px;
   opacity: 0.1; }
@@ -4039,7 +4039,7 @@ legend {
     background-color: #fff;
     border: 2px solid #f2f2f2;
     border-radius: 50%;
-    background-image: url(../../../img/radio-app.png);
+    background-image: url(/img/radio-app.png);
     background-repeat: no-repeat;
     background-position: 12px 10px; }
   .application-radio input[type="radio"]:checked + .radio-indicator {
@@ -4052,7 +4052,7 @@ legend {
     background-color: #fff;
     border-radius: 2px solid #f2f2f2;
     border-radius: 50%;
-    background-image: url(../../../img/radio-app.png);
+    background-image: url(/img/radio-app.png);
     background-repeat: no-repeat;
     background-position: 12px 10px;
     opacity: 0.1; }
@@ -4093,7 +4093,7 @@ legend {
       right: 54px;
       width: 62px;
       height: 64px;
-      background-image: url(../../../img/phone.png);
+      background-image: url(/img/phone.png);
       background-repeat: no-repeat;
       background-position: 22px 24px; }
   .contact-information__phone-wrapper .phone-label {
@@ -4128,7 +4128,7 @@ legend {
       right: 54px;
       width: 62px;
       height: 64px;
-      background-image: url(../../../img/mail.png);
+      background-image: url(/img/mail.png);
       background-repeat: no-repeat;
       background-position: 22px 28px; }
   .contact-information__email-wrapper .email-label {
@@ -4377,7 +4377,7 @@ legend {
     background-color: #fff;
     border: 2px solid #f2f2f2;
     border-radius: 50%;
-    background-image: url(../../../img/radio-app.png);
+    background-image: url(/img/radio-app.png);
     background-repeat: no-repeat;
     background-position: 12px 10px; }
   .application-radio input[type="radio"]:checked + .radio-indicator {
@@ -4390,7 +4390,7 @@ legend {
     background-color: #fff;
     border-radius: 2px solid #f2f2f2;
     border-radius: 50%;
-    background-image: url(../../../img/radio-app.png);
+    background-image: url(/img/radio-app.png);
     background-repeat: no-repeat;
     background-position: 12px 10px;
     opacity: 0.1; }
@@ -4444,7 +4444,7 @@ legend {
       right: 0;
       width: 62px;
       height: 64px;
-      background-image: url(../../../img/phone.png);
+      background-image: url(/img/phone.png);
       background-repeat: no-repeat;
       background-position: 22px 24px; }
   .contact-information__phone-wrapper .phone-label {
@@ -4482,7 +4482,7 @@ legend {
       right: 0;
       width: 62px;
       height: 64px;
-      background-image: url(../../../img/mail.png);
+      background-image: url(/img/mail.png);
       background-repeat: no-repeat;
       background-position: 22px 28px; }
   .contact-information__email-wrapper .email-label {

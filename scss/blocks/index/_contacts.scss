@@ -1,6 +1,6 @@
 .contacts {
     background-color: #fff;
-    background-image: url(../../../img/map-marker.jpg);
+    background-image: url(/img/map-marker.jpg);
     background-size: 320px;
     background-repeat: no-repeat;
     min-height: 612px;
@@ -20,7 +20,7 @@
 
 .address {
     // // background-color: #fff;
-    //     background-image: url(../../../img/contacts-bg-triangle.png);
+    //     background-image: url(/img/contacts-bg-triangle.png);
     //         background-position: 0 307px;
     //         background-repeat: no-repeat;
     //         // min-height: 490px;
@@ -28,7 +28,7 @@
     &::after {
         position: absolute;
         content: "";
-        background-image: url(../../../img/contacts-bg-triangle-1200.png);
+        background-image: url(/img/contacts-bg-triangle-1200.png);
         background-repeat: no-repeat;
         background-size: 320px;
         width: 320px;
@@ -76,7 +76,7 @@
 @media screen and (min-width: 660px) {
     .contacts {
         background-color: #fff;
-        background-image: url(../../../img/map-marker-660.png);
+        background-image: url(/img/map-marker-660.png);
         background-size: 660px;
         background-repeat: no-repeat;
         min-height: 780px;
@@ -91,7 +91,7 @@
     
     .address {
         background-color: #fff;
-        //     background-image: url(../../../img/contacts-bg-triangle.png);
+        //     background-image: url(/img/contacts-bg-triangle.png);
         //         background-position: 0 403px;
         //         background-repeat: no-repeat;
 
@@ -152,7 +152,7 @@
 @media screen and (min-width: 1200px) {
     .contacts {
         background-color: #fff;
-        background-image: url(../../../img/map-marker-1200.jpg);
+        background-image: url(/img/map-marker-1200.jpg);
         background-size: 1200px;
         background-repeat: no-repeat;
         min-height: 780px;
@@ -167,7 +167,7 @@
     
     .address {
         background-color: #fff;
-        //     background-image: url(../../../img/contacts-bg-triangle.png);
+        //     background-image: url(/img/contacts-bg-triangle.png);
         //         background-position: 0 403px;
         //         background-repeat: no-repeat;
 
