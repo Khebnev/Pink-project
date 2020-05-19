@@ -1,0 +1,21 @@
+@import "mixins.scss";
+
+@import "blocks/scaffolding";
+@import "blocks/index/header";
+@import "blocks/index/intro";
+@import "blocks/index/advantages";
+@import "blocks/index/round-diagram";
+@import "blocks/index/reviews";
+@import "blocks/index/price";
+@import "blocks/index/contacts";
+@import "blocks/footer";
+
+ @import "blocks/photo/photo-header";
+ @import "blocks/photo/photo-section-header";
+ @import "blocks/photo/section-photos";
+ @import "blocks/photo/section-upload";
+ @import "blocks/photo/photo-footer";
+
+ @import "blocks/form/form-header";
+ @import "blocks/form/section-form";
+ @import "blocks/form/form-footer";

@@ -1,0 +1,218 @@
+.reviews {
+    background-color: #fff;
+    font-family: Open Sans;
+    line-height: 30px;
+    padding-top: 48px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.reviews__quote-img {
+    display: none;
+}
+
+.slider__item:nth-child(2) {
+    display: none;
+}
+
+.slider__item:nth-child(3) {
+    display: none;
+}
+
+.reviews__next {
+    display: none;
+}
+.reviews__prev {
+    display: none;
+}
+
+.reviews__item {
+    text-align: center;
+}
+
+.reviews blockquote {
+    margin: 0;
+    padding: 0;
+}
+
+.reviews__item .reviews__author-name {
+    display: block;
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 23px;
+    font-style: normal;
+}
+
+.reviews__item .reviews__author-position {
+    display: none;
+}
+
+.reviews__item .reviews__description {
+    display: block;
+    margin: 0;
+    padding: 0;
+    color: #283645;
+    font-size: 14px;
+    margin-bottom: 40px;
+}
+
+.slider__toggles {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    // padding-bottom: 42px;
+    align-items: center;
+    margin: 0;
+
+}
+.slider__toggles .slider__toggle {
+    background-color: #bec2c7;
+    border: none;
+    width: 6px;
+    height: 6px;
+    padding: 0;
+    margin: 0;
+    border-radius: 50%;
+}
+
+.slider__toggles .slider__toggle:nth-child(2) {
+    margin-left: 14px;
+    margin-right: 14px;
+}
+
+
+.slider__toggles .slider__toggle--current {
+    background-color: #fff;
+    width: 9px;
+    height: 9px;
+    border: 2px solid #283645;
+    border-radius: 50%;
+}
+
+@media screen and (min-width: 660px) {
+    .reviews {
+        padding-top: 0;
+        padding-top: 40px;
+    }
+
+    .reviews__author {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+
+    .reviews__author .reviews__author-name {
+        display: block;
+        order: 2;
+        margin: 0;
+        padding: 0;
+        margin-top: 43px;
+        margin-bottom: 12px;
+    }
+
+    .reviews__author .reviews__author-position {
+        display: block;
+        order: 2;
+        margin: 0;
+        padding: 0;
+        padding-bottom: 40px;
+
+        font-family: Open Sans;
+        font-size: 14px;
+        line-height: 30px;
+        color: #283645;
+    }
+
+    .reviews__author .reviews__description {
+        display: block;
+        order: 1;
+        margin: 0;
+        padding: 0;
+        font-size: 18px;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    .reviews {
+        margin: 0;
+        padding: 0;
+        padding-left: 130px;
+        padding-right: 130px;
+    }
+
+    .reviews__quote-img {
+        display: block;
+        margin: 0 auto;
+        padding-top: 72px;
+        margin-bottom: 56px;
+    }
+    .reviews__author .reviews__author-name {
+        display: block;
+        order: 2;
+        margin: 0;
+        padding: 0;
+
+        font-size: 24px;
+        margin-top: 42px;
+        margin-bottom: 8px;
+    }
+
+    .reviews__author .reviews__author-position {
+        display: block;
+        order: 2;
+        margin: 0;
+        padding: 0;
+        // padding-bottom: 40px;
+        font-size: 18px;
+    }
+
+    .reviews__author .reviews__description {
+        display: block;
+        order: 1;
+        margin: 0;
+        padding: 0;
+        font-size: 18px;
+    }
+
+    .reviews__toggles {
+        display: none;
+    }
+
+    .reviews__list {
+        display: flex;
+        flex-wrap: wrap;
+        width: 938px;
+    }
+
+    .blockqoute__wrapper {
+        order: 2;
+        width: 820px;
+        padding: 0 60px;
+        box-sizing: border-box;
+    }
+
+
+    .reviews__next {
+        display: block;
+        width: 22px;
+        height: 41px;
+        background-image: url(../../../img/right-arrow-png.png);
+        background-color: transparent;
+        border: none;
+        order: 3;
+        margin-top: 23px;
+    }
+    .reviews__prev {
+        display: block;
+        width: 22px;
+        height: 41px;
+        background-image: url(../../../img/left-arrow-png.png);
+        background-color: transparent;
+        border: none;
+        order: 1;
+        margin-top: 23px;
+    }
+
+}
